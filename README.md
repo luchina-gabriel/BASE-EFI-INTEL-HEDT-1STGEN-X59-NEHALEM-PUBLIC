@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-1STGEN-X59-NEHALEM-PUBLIC/assets/23700365/c6dc7ac6-14eb-43c3-a4f7-fe21d0dede8b)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-1STGEN-X59-NEHALEM-PUBLIC/assets/23700365/9139dc48-dcb3-4386-b018-4d4179715cc0)
+
 # Basic Info
 
 Note|Description
